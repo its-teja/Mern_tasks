@@ -1,1 +1,78 @@
 # Mern_tasks
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1>Index page</h1>
+        <table border="1">
+            <tr>
+                <th colspan="2">HTML task</th>
+            </tr>
+            <tr>
+                <th>Task Number</th>
+                <th>Link</th>
+            </tr>
+            
+            <tr>
+                <td>HTML-1</td>
+                <td><a href="./htmltask1.html">Link1</a></td>
+            </tr>
+            <tr>
+                <td>HTML-2</td>
+                <td><a href="./htmltask2.html">Link2</a></td>
+            </tr>
+            <tr>
+                <td>HTML-3</td>
+                <td><a href="./htmltask3.html">Link3</a></td>
+            </tr>
+            <tr>
+                <td>HTML-4</td>
+                <td><a href="./htmltask4.html">Link4</a></td>
+            </tr>
+            <tr>
+                <td>HTML-5</td>
+                <td><a href="./htmltask5.html">Link5</a></td>
+            </tr>
+
+            <tr>
+                <td>CSS-1</td>
+                <td><a href="./csstask1.html">Link1</a></td>
+            </tr>
+            <tr>
+                <td>CSS-2(a)</td>
+                <td><a href="./csstask2(a).html">Link2(a)</a></td>
+            </tr>
+            <tr>
+                <td>CSS-2(b)</td>
+                <td><a href="./csstask2(b).html">Link2(b)</a></td>
+            </tr>
+            <tr>
+                <td>CSS-3</td>
+                <td><a href="./csstask3.html">Link3</a></td>
+            </tr>
+            <tr>
+                <td>CSS-4</td>
+                <td><a href="./csstask4.html">Link4</a></td>
+            </tr>
+            <tr>
+                <td>CSS-5</td>
+                <td><a href="./csstask5.html">Link5</a></td>
+            </tr>
+            <tr>
+                <td>CSS-6</td>
+                <td><a href="./csstask6.html">Link6</a></td>
+            </tr>
+            <tr>
+                <td>CSS-7</td>
+                <td><a href="./csstask7.html">Link7</a></td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
